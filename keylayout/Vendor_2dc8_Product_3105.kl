@@ -1,0 +1,39 @@
+# Google Stadia Controller via 8BitDo USB Wireless adapter 2
+# Dinput mode (hold "..."+"dpad left" for 3 seconds)
+key 0x130  BUTTON_A
+key 0x131  BUTTON_B
+key 0x133 BUTTON_X
+key 0x134 BUTTON_Y
+
+#L1
+key 0x136 BUTTON_L1
+#R1
+key 0x137 BUTTON_R1
+
+#L3 Stick
+key 0x13d BUTTON_THUMBL
+#R3 Stick
+key 0x13e BUTTON_THUMBR
+
+#Stadia symbol
+key 0x13c HOME
+#===
+key 0x13b MENU
+#...
+key 0x13a BACK
+
+#D-pad
+axis 0x10 HAT_X
+axis 0x11 HAT_Y
+
+#Left stick
+axis 0x00 X
+axis 0x01 Y
+
+#Right stick
+axis 0x02 Z
+axis 0x05 RZ
+
+axis 0x0a LTRIGGER
+axis 0x09 RTRIGGER
+
