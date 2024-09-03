@@ -1,0 +1,38 @@
+# PS4 Controller via Bluetooth
+key 0x131 BUTTON_A
+key 0x132 BUTTON_B
+key 0x130 BUTTON_X
+key 0x133 BUTTON_Y
+
+#Shoulder
+key 0x134 BUTTON_L1
+key 0x135 BUTTON_R1
+key 0x136 BUTTON_L2
+key 0x137 BUTTON_R2
+
+#Thumbsticks
+key 0x13a BUTTON_THUMBL
+key 0x13b BUTTON_THUMBR
+
+#PS4 Pad Click
+key 0x13d HOME
+#Options
+key 0x138 MENU
+#Share
+key 0x139 BACK
+
+#D-Pad
+axis 0x10 HAT_X
+axis 0x11 HAT_Y
+
+#Left Stick
+axis 0x00 X
+axis 0x01 Y
+
+#Right Stick
+axis 0x02 Z
+axis 0x05 RZ
+
+#Triggers
+#axis 0x136 LTRIGGER
+#axis 0x137 RTRIGGER
