@@ -2,6 +2,7 @@
 Input mappings for additional controllers and gamepads.
 
 - `Vendor_054c_Product_09cc.kl`: Sony Playstation 4 controller
+- `Vendor_054c_Product_0cda.kl`: Sony Playstation Classic Controller SCPH 1000R via USB
 - `Vendor_0810_Product_0001.kl`: Dual PSX Adaptor / Twin USB Joystick
   requires the `HID_PANTHERLORD` driver
 - `Vendor_18d1_Product_9400.kl`: Google Stadia Controller via USB
